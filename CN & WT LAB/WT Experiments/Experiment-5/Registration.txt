@@ -1,1 +1,91 @@
 
+<html>
+	<head>
+		<meta charset="utf-8">
+	<h1 align="center">Registration Form</h1>
+		<title>Student Registration Form</title>
+		<style type="text/css">
+			
+			th {
+				
+				font-size: 20px;
+				font-weight: bold;
+				text-align: left;
+			}
+			body {
+				background-image: url('../html image.jpg');
+				background-size: cover;
+				background-color: #993333;
+				color: white;
+				font-family: verdana;
+			}
+
+		</style>
+
+
+	</head>
+
+	<body>
+
+	
+		<form>
+			<table width="600" border="0" align="center"  cellspacing="5">
+	<tr>
+		<th>Enter First Name</th>
+		<td><input type="text" name="firstname" maxlength="10" title="enter your first name" ></td>
+	</tr>
+	<tr>
+		<th>Enter Last Name</th>
+		<td><input type="text"></td>
+	</tr>
+				<tr>
+					<th>Enter Your Email</th>
+					<td><input type="email"></td>
+				</tr>
+				
+	<tr>
+		<th>Enter Password</th>
+		<td><input type="password"></td>
+	</tr>
+	<tr>
+		<th>Re Enter Password</th>
+		<td><input type="password"></td>
+	</tr>
+<tr>
+		<th>Enter Phone Number</th>
+		<td><input type="number"/></td>
+	</tr>
+	<tr>
+		<th>Enter Your Address</th>
+		<td>
+			<textarea rows="2" cols="15"></textarea></td>
+	</tr>
+	<tr>
+		<th>Select Gender</th>
+		<td>
+						<input type="radio" id="male" name="gender" value="male">
+						<label for="male">Male</label>
+						<input type="radio" id="female" name="gender" value="female">
+						<label for="female">Female</label>
+						<input type="radio" id="other" name="gender" value="other">
+						<label for="other">Other</label>s
+		</td>
+	</tr>
+
+	<tr>
+		<th>Select Your Date Of Birth</th>
+		<td><input type="date"></td>
+	</tr>
+
+	<tr>
+		<th>Upload your pic</th>
+		<td><input type="file"></td>
+	</tr>
+<tr>
+<td><input type="reset" /></td>
+<td><input type="submit" value="Submit"  onsubmit= "alert('your details have been submitted!')"/></td>
+</tr>
+	</table>
+	</form>
+
+</html>
