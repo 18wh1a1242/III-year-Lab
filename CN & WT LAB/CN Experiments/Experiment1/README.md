@@ -14,8 +14,8 @@ To implement data link layer framing method character count.
 ###Output
 ![output](charcount.png)
 
-
-## 2.Character stuffing
+## Aim of the Experiment
+Character stuffing
 
 ###Procedure for Character Stuffing
 1.Read the number of frames and data in each frame.
@@ -25,9 +25,10 @@ To implement data link layer framing method character count.
 
 ###OUTPUT:
 
- ![output](Character_Stuffing.png)
-
-##3.Bit Stuffing
+ ![output](Character_Stuffing.png
+ 
+## Aim of the Experiment
+Bit stuffing
 
 ###Procedure for Bit Stuffing
 
