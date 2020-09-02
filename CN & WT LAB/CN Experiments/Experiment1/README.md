@@ -14,10 +14,10 @@ To implement data link layer framing method character count.
 ###Output
 ![output](charcount.png)
 
-## Aim of the Experiment
+# Aim of the Experiment
 Character stuffing
 
-### Procedure for Character Stuffing
+## Procedure for Character Stuffing
 1.Read the number of frames and data in each frame.
 2.At the sender sid,add the delimiter as "DLESTX" and ending with delimiter as "DLEEXT".
 3.If the original data contains "DLE" as sub-string, add an extra "DLE" before it.
