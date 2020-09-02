@@ -25,7 +25,7 @@ Character stuffing
 
 ###OUTPUT:
 
- ![output](Character_Stuffing.png
+ ![output](Character_Stuffing.png)
  
 ## Aim of the Experiment
 Bit stuffing
