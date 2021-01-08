@@ -24,7 +24,7 @@ By repeating these steps we  conclude  the total  transmissions  required.
  
  #### Sliding Window
 
-![output](slidingwidow.png)
+![output](sliding widow.png)
 
  #### Go-Back-N-ARQ
 
