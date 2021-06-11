@@ -1,0 +1,10 @@
+<?php
+
+$a ="hemanthika";
+
+echo strrev($a);
+
+?>
+
+output:
+The reverse string of hemanthika is akihtnameh
