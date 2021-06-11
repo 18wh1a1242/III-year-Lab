@@ -1,0 +1,14 @@
+<?php
+       
+ //Enter your code here, enjoy!
+
+
+$a = "Mahati";
+
+
+echo strlen($a);
+
+
+?>
+
+output:6
