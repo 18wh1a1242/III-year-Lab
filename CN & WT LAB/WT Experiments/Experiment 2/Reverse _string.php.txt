@@ -1,0 +1,10 @@
+<?php
+
+$a ="mahati";
+
+echo strrev($a);
+
+?>
+
+output:
+The reverse string of mahati is itaham
